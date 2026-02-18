@@ -24,7 +24,7 @@ https://your-vercel-link.vercel.app
 ## 📸 Project Screenshots
 
 ### 🔐 Login Page
-![Login]([screenshots](https://ibb.co/bMdc6vdf))
+![Login](https://ibb.co/bMdc6vdf)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
