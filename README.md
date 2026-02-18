@@ -24,11 +24,11 @@ https://your-vercel-link.vercel.app
 ## 📸 Project Screenshots
 
 ### 🔐 Login Page
-[Login](https://ibb.co/bMdc6vdf)
+[![Login](screenshots/login.png)](https://ibb.co/bMdc6vdf)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+[![Dashboard](screenshots/dashboard.png)](https://ibb.co/pjVn9vmM)
 
 ### 📝 Apply Leave Page
-![Apply Leave](screenshots/apply-leave.png)
+[![Apply Leave](screenshots/apply-leave.png)](https://ibb.co/h1DNYJPg)
 
