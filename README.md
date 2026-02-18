@@ -20,3 +20,15 @@ It allows employees to apply for leave and managers to approve or reject request
 
 ## 🌐 Live Demo
 https://your-vercel-link.vercel.app
+
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login]([screenshots](https://ibb.co/bMdc6vdf)/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📝 Apply Leave Page
+![Apply Leave](screenshots/apply-leave.png)
+
