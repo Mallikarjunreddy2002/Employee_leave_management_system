@@ -25,7 +25,7 @@ https://your-vercel-link.vercel.app
 
 ### 🔐 Login Page
 [![Login](screenshots/login.png)](https://ibb.co/hRLY9q0H)
-![Login](https://image2url.com/r2/default/images/1771525494796-a62a4895-fd6b-4556-88e9-1b1548cfcee5.png)
+[![image](https://image2url.com/r2/default/images/1771525494796-a62a4895-fd6b-4556-88e9-1b1548cfcee5.png)]({url})
 
 ### 📊 Dashboard
 [![Dashboard](screenshots/dashboard.png)](https://ibb.co/pjVn9vmM)
