@@ -25,10 +25,10 @@ https://your-vercel-link.vercel.app
 
 ### 🔐 Login Page
 [![Login](screenshots/login.png)](https://ibb.co/hRLY9q0H)
-[![image](https://image2url.com/r2/default/images/1771525494796-a62a4895-fd6b-4556-88e9-1b1548cfcee5.png)]({url})
+
 
 ### 📊 Dashboard
-[![Dashboard](screenshots/dashboard.png)](https://ibb.co/pjVn9vmM)
+[![Dashboard](screenshots/dashboard.png)](https://ibb.co/27rZ2485)
 
 ### 📝 Apply Leave Page
 [![Apply Leave](screenshots/apply-leave.png)](https://ibb.co/h1DNYJPg)
