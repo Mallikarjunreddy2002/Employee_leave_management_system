@@ -31,5 +31,5 @@ https://your-vercel-link.vercel.app
 [![Dashboard](screenshots/dashboard.png)](https://ibb.co/27rZ2485)
 
 ### 📝 Apply Leave Page
-[![Apply Leave](screenshots/apply-leave.png)](https://ibb.co/h1DNYJPg)
+[![Apply Leave](screenshots/apply-leave.png)][(https://ibb.co/h1DNYJPg)](https://ibb.co/PGcKDLd5)
 
